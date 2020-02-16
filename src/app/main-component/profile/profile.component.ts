@@ -9,6 +9,9 @@ export class ProfileComponent implements OnInit {
 
   constructor() { }
 
+  userName : string = "Zamhar Raa'D"
+  age : number = 23;
+
   ngOnInit(): void {
   }
 
