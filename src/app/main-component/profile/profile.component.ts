@@ -16,7 +16,10 @@ export class ProfileComponent implements OnInit {
   imgHtml5 = './../../../assets/images/html-5.svg'
   imgJava = './../../../assets/images/java.svg'
   imgReact = './../../../assets/images/react.svg'
-
+  imgCss = './../../../assets/images/css.svg'
+  imgNodeJs = './../../../assets/images/nodejs.svg'
+  imgTypescript = './../../../assets/images/typescript.svg'
+  imgMysql = './../../../assets/images/mysql.svg'
   ngOnInit(): void {
   }
 
