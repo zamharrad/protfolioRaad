@@ -12,6 +12,11 @@ export class ProfileComponent implements OnInit {
   userName : string = "M.M.M Zamhar"
   age : number = 23;
 
+  imgGithub = './../../../assets/images/github.svg'
+  imgHtml5 = './../../../assets/images/html-5.svg'
+  imgJava = './../../../assets/images/java.svg'
+  imgReact = './../../../assets/images/react.svg'
+
   ngOnInit(): void {
   }
 

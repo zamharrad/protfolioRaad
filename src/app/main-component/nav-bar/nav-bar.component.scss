@@ -36,7 +36,24 @@ canvas {
     text-align: center;
     color: #f71d1d;
 }
+@media screen and (max-width: 600px) {
+	div.text {
+		top: 30%;
+	  margin: 0 auto;
+	  max-height: 40vh;
+	  
+	}
+  }
 
+@media screen and (max-width: 600px) {
+	div.text h1 {
+	  font-size: 30px;
+	  margin: 0 auto;
+	  min-width: 20vh;
+	  text-align: center;
+	  margin-left: -2vh;
+	}
+  }
 h1 {
 	font-size: 3em;
 	font-weight: 700;
