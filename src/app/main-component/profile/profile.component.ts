@@ -20,6 +20,21 @@ export class ProfileComponent implements OnInit {
   imgNodeJs = './../../../assets/images/nodejs.svg'
   imgTypescript = './../../../assets/images/typescript.svg'
   imgMysql = './../../../assets/images/mysql.svg'
+
+  imgBootstrap = './../../../assets/images/bootstrap.svg'
+  imgkibana = './../../../assets/images/kibana.svg'
+  imgElastic = './../../../assets/images/elasticsearch.svg'
+
+  imgDocker = './../../../assets/images/docker2.svg'
+  imgAngular = './../../../assets/images/angulR.svg'
+  imgGitlab = './../../../assets/images/gitlab.svg'
+  imgSpring = './../../../assets/images/spring.svg'
+  imgHibernate = './../../../assets/images/hibernate.svg'
+  imgJira = './../../../assets/images/jira.svg'
+  imgMongoDb = './../../../assets/images/mongodb.svg'
+  imgIntelij = './../../../assets/images/intellij.svg'
+  imgMicrosoftVs ='./../../../assets/images/microsoft.svg'
+  imgEclipse ='./../../../assets/images/eclipse.svg'
   ngOnInit(): void {
   }
 

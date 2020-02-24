@@ -41,13 +41,18 @@
   
 }
 .technogies {
-    margin: 0 auto;
-    display: block;
-    align-content: center;
+    // margin: 0 auto;
+    // display: block;
+   
 }
 .technogies img {
-    // display: flex;  
-    max-width: 15vh;
-    padding: 2vh;
-    margin:1vh;
+    height: 5rem;
+    width: auto;
+    margin: 1.5rem;
+    vertical-align: middle;
+
+    // margin: 0 auto;
+    // max-width: 12vh;
+    // padding: 2vh;
+    // margin:1vh;
 }
