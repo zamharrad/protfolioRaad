@@ -1,3 +1,6 @@
+body{
+    width: 100%;
+}
 .profile{
     background-color: rgb(39, 38, 36);
 }
@@ -37,22 +40,18 @@
 }
 
 .main-tec{
-    margin: 0 auto;
+    // margin: 0 auto;
+    
   
 }
 .technogies {
-    // margin: 0 auto;
-    // display: block;
+    display: flex;
+    justify-content: center;
    
 }
 .technogies img {
-    height: 5rem;
+    height: 4rem;
     width: auto;
     margin: 1.5rem;
-    vertical-align: middle;
-
-    // margin: 0 auto;
-    // max-width: 12vh;
-    // padding: 2vh;
-    // margin:1vh;
+    
 }
